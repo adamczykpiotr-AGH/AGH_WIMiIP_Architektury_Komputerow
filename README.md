@@ -1,2 +1,2 @@
-# AGH_WIMiIP_Architektury_Komputerow
-Zadania z Architektur Komputerów na AGH WIMiIP [prowadzący: mgr. Chłoń]
+# AGH WIMiIP Architektury Komputerów
+Zadania z Architektur Komputerów na AGH WIMiIP (prowadzący: mgr. Chłoń)
